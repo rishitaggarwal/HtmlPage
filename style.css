@@ -1,0 +1,53 @@
+.games{
+background-color:#cd201f;
+display:flex;
+flex-direction:row ;
+padding:100px
+
+}
+.cxt{
+    background-color:#df2029;
+    display:flex;
+    flex-direction:row ;
+padding:100px;
+
+
+}
+.parent{
+display:flex;
+flex-direction: column;
+
+}
+
+body{
+background-color: #bd081c;
+
+
+}
+img{
+border: solid;
+
+}
+
+h1{
+    padding-left:370px;
+border:solid;
+margin:100px;
+font-family: Comic Sans MS;
+
+}
+.abtme{
+padding-left: 380px;
+margin-left:100px;
+font-size: larger;
+font-family: Arial;
+}
+a:links{
+color:#410093;
+
+}
+a:visited{
+color:#0084ff;
+
+}
+
